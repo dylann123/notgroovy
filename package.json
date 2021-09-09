@@ -1,0 +1,28 @@
+{
+  "name": "notgroovy",
+  "version": "1.0.0",
+  "description": "Its not groovy youtube don't hurt me",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo amogus"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Firecreper2/notgroovy.git"
+  },
+  "author": "firecreper",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Firecreper2/notgroovy/issues"
+  },
+  "homepage": "https://github.com/Firecreper2/notgroovy#readme",
+  "dependencies": {
+    "@discordjs/opus": "^0.5.3",
+    "discord.js": "^12.2.0",
+    "dotenv": "^10.0.0",
+    "youtube-dl-exec": "^1.2.5",
+    "youtube-search-api": "^1.0.10",
+    "yt-audio-link": "^1.0.1",
+    "ytdl-core": "^4.9.1"
+  }
+}
