@@ -4,7 +4,8 @@
   "description": "Its not groovy youtube don't hurt me",
   "main": "index.js",
   "scripts": {
-    "test": "echo amogus"
+    "test": "echo amogus",
+    "start": "node ."
   },
   "repository": {
     "type": "git",
